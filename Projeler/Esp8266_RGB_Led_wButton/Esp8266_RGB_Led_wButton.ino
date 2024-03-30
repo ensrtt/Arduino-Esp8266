@@ -5,6 +5,9 @@
  * strobe efektleri ve potansiyometrenin pozisyonuna bağlı dinamik renk değişimleri bulunur.
  * Potansiyometrenin değeri seri port üzerinden gönderilir, bu sayede gerçek zamanlı değer takibi yapılabilir.
  *
+ *Detaylı bilgi için ziyaret edin:
+ *https://github.com/ensrtt/Arduino-Esp8266/tree/main/Projeler/Esp8266_RGB_Led_wButton
+ *
  *ESP8266 Nodemcu Lolin V3 + Common Anode RGB Led + 2 Pin Button + 10k Potansiyometre
  * Pin Bağlantıları:
  * - Button Pin: 4 10k pull-down
